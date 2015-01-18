@@ -1,0 +1,2 @@
+# AJAXServletCallSample
+AJAXServletCallSample
